@@ -1,0 +1,39 @@
+.productsLayout {
+  margin: 30px auto;
+}
+
+.productPrice span {
+  font-weight: bold;
+}
+
+.badge {
+  display: block;
+  width: 150px;
+  margin: 10px auto 5px;
+}
+
+.thumbnail,
+.productPrice,
+.product-title {
+  text-align: center;
+}
+
+.thumbnail img {
+  width: 119px;
+}
+
+.addToCart,
+.productPrice {
+  margin: 5px auto;
+  display: block;
+}
+
+.addToCart:hover {
+  cursor: pointer;
+}
+
+.productItem {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 0 50px;
+}
